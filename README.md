@@ -80,7 +80,7 @@ Matched with Søren
 ## File Structure
 
 ```
-Assignment3/
+Unicode-Compatible-Username-Matching/
 ├── src/
 │   └── assignment3/
 │       └── Main.java          # Main program
@@ -145,4 +145,4 @@ import java.util.Locale;        // For locale settings
 
 ## License
 
-Educational project for COSC 125 course.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
